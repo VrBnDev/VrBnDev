@@ -17,7 +17,7 @@
   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=VrBnDev&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only'>
 </div>
 <div style='display: inline-block;' align='center'>
-  <h3>Linguagens que utilizo:</h3>
+  <h3>Linguagens que estudo:</h3>
   <img align='center' height='40' width='50' alt='Vih-Angular' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />    
   <img align='center' height='40' width='50' alt='Vih-CSS' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align='center' height='40' width='50' alt='Vih-HTML' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
