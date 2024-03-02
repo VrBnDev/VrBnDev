@@ -25,7 +25,7 @@
 </div>
 <div style='display: inline-block;' align='center'>
   <h3>Cursos em Andamento</h3>
-  <p>IFPI - Graduação em Licenciatura da Computação</p>
-  <p>SENAI - Desenvolvimento Full Stack</p>
+  <p align='left'>📗 IFPI - Graduação em Licenciatura da Computação</p>
+  <p align='left'>📕 SENAI - Desenvolvimento Full Stack</p>
 </div>
 
