@@ -23,6 +23,7 @@
   <img align='center' height='40' width='50' alt='Vih-Js' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align='center' height='40' width='50' alt='Vih-Python' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />                  
 </div>
+<hr>
 <div style='display: inline-block;' align='center'>
   <h3>Formação Acadêmica:</h3>
   <p align='left'>📘 UNIP - Graduação em Gestão de TI - Concluído ✅</p>
