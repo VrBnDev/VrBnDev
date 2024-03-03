@@ -27,7 +27,7 @@
 <div style='display: inline-block;' align='center'>
   <h3>Formação Acadêmica:</h3>
   <p align='left'>📘 UNIP - Graduação em Gestão de TI - Concluído ✅</p>
-  <p align='left'>📗 IFPI - Graduação em Licenciatura da Computação - Em andamento... </p>
-  <p align='left'>📕 SENAI - Desenvolvimento Full Stack - Em andamento...</p>
+  <p align='left'>📗 IFPI - Graduação em Licenciatura da Computação - 7/8 </p>
+  <p align='left'>📕 SENAI - Desenvolvimento Full Stack - 10/15</p>
 </div>
 
