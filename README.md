@@ -2,7 +2,7 @@
 <hr>
 <div align='center'>
   <h3>Sobre mim</h3>
-  <p>...</p>
+  <p>Amo programação pois me permite aprender algo novo todos os dias e exercitar conhecimentos de lógica.</p>
   <div>
     <a><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/></a>
     <a><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
@@ -24,8 +24,9 @@
   <img align='center' height='40' width='50' alt='Vih-Python' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />                  
 </div>
 <div style='display: inline-block;' align='center'>
-  <h3>Cursos em Andamento</h3>
-  <p align='left'>📗 IFPI - Graduação em Licenciatura da Computação</p>
-  <p align='left'>📕 SENAI - Desenvolvimento Full Stack</p>
+  <h3>Formação Acadêmica:</h3>
+  <p align='left'>📘 UNIP - Graduação em Gestão de TI - Concluído ✅</p>
+  <p align='left'>📗 IFPI - Graduação em Licenciatura da Computação - Em andamento... </p>
+  <p align='left'>📕 SENAI - Desenvolvimento Full Stack - Em andamento...</p>
 </div>
 
