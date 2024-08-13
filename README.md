@@ -33,7 +33,7 @@
 <hr>
 <div style='display: inline-block;' align='center'>
   <h3>Projetos mais queridos:</h3>
-  <a href='https://vrbndev.github.io/Introducao-Web/projeto-2023-02/atividade-24/atividade-api.html' align='left'>Trabalho de Conclusão da Disciplina - Introdução a Programação Web (01)</a>
-  <a href='https://vrbndev.github.io/Introducao-Web/projeto-2023-02/atividade-23' align='left'>Trabalho de Conclusão da Disciplina - Introdução a Programação Web (02)</a>
+  <li><a href='https://vrbndev.github.io/Introducao-Web/projeto-2023-02/atividade-24/atividade-api.html' align='left'>Trabalho de Conclusão da Disciplina - Introdução a Programação Web (01)</a></li>
+  <li><a href='https://vrbndev.github.io/Introducao-Web/projeto-2023-02/atividade-23' align='left'>Trabalho de Conclusão da Disciplina - Introdução a Programação Web (02)</a></li>
 </div>
 
