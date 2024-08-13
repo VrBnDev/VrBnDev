@@ -30,4 +30,9 @@
   <p align='left'>📗 IFPI - Graduação em Licenciatura da Computação - 7/8 </p>
   <p align='left'>📕 SENAI - Desenvolvimento Full Stack - 10/15</p>
 </div>
+<hr>
+<div style='display: inline-block;' align='center'>
+  <h3>Projetos mais queridos:</h3>
+  <a href='https://vrbndev.github.io/Introducao-Web/projeto-2023-02/atividade-24/atividade-api.html' align='left'>Trabalho de Conclusão da Disciplina - Introdução a Programação Web (01)</a>
+</div>
 
