@@ -35,6 +35,6 @@
   <h3>Projetos mais queridos:</h3>
   <li><a href='https://vrbndev.github.io/Introducao-Web/projeto-2023-02/atividade-24/atividade-api.html' align='left'>Trabalho de Conclusão da Disciplina - Introdução a Programação Web (01)</a></li>
   <li><a href='https://vrbndev.github.io/Introducao-Web/projeto-2023-02/atividade-23' align='left'>Trabalho de Conclusão da Disciplina - Introdução a Programação Web (02)</a></li>
-  <li><a href='[https://vrbndev.github.io/Introducao-Web/projeto-2023-02/atividade-23](https://vrbndev.github.io/CyberEduc/)' align='left'>Projeto CyberEduc - Cybersegurança para todos</a></li>
+  <li><a href='https://vrbndev.github.io/CyberEduc/' align='left'>Projeto CyberEduc - Cybersegurança para todos</a></li>
 </div>
 
