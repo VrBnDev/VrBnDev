@@ -13,7 +13,7 @@
 <div align='center'>
   <a href='https://github.com/VrBnDev/'></a>
   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=VrBnDev&show_icons=true&theme=dark#gh-dark-mode-only&include_all_comits=true&count_private='>
-  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=VrBnDev&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only'>
+  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=VrBnDev&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only'>
 </div>
 <div style='display: inline-block;' align='center'>
   <h3>Linguagens que estudo:</h3>
