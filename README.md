@@ -17,8 +17,8 @@
 </div>
 <div style='display: inline-block;' align='center'>
   <h3>Linguagens que estudo:</h3>
-  <img align='center' height='40' width='50' alt='Vih-CSS' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align='center' height='40' width='50' alt='Vih-HTML' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align='center' height='40' width='50' alt='Vih-CSS' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align='center' height='40' width='50' alt='Vih-Js' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align='center' height='40' width='50' alt='Vih-Python' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align='center' height='40' width='50' alt='Vih-Angular' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />   
