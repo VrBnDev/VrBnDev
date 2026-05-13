@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vitorianascimento-sistemas&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=VrBnDev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=vitorianascimento-sistemas&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=VrBnDev&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -71,6 +71,6 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/vitorianascimento-sistemas/vitorianascimento-sistemas/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/vitorianascimento-sistemas/VrBnDev/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
